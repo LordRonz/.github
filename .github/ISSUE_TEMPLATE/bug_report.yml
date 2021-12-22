@@ -2,6 +2,8 @@ name: 🐞 Bug
 description: File a bug/issue
 title: "[BUG] <title>"
 labels: [Bug, Needs Triage]
+assignees:
+  - LordRonz
 body:
 - type: checkboxes
   attributes:
